@@ -1,2 +1,2 @@
 # tutorial
-for GoIT Python precourse
+GoIT HTML and CSS module 1
